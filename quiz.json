@@ -1,0 +1,32 @@
+[
+    { "pytanie" : "W ktorym roku Polska weszla do UE?",
+        "a" : 2000,
+        "b" : 2001,
+        "c" : 2004,
+        "d" : 1999,
+        "prawidlowa_odpowiedz" : "c"
+    },
+    {
+
+        "pytanie" : "Ile zebow przedtrzonowych ma dorosly czlowiek?",
+        "a" : 20,
+        "b" : 5,
+        "c" : 4,
+        "d" : 8,
+        "prawidlowa_odpowiedz" : "d"
+
+
+    },
+    {
+
+        "pytanie" : "Czym zajmuje się periodontolog?",
+        "a" : "oponami",
+        "b" : "obijaniem foteli",
+        "c" : "produkcją żelek",
+        "d" : "chorobami dziasel",
+        "prawidlowa_odpowiedz" : "d"
+
+
+
+    }
+]
