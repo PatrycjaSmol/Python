@@ -6,7 +6,8 @@
 * [Project Status](#project-status)
 
 ## General Information
-Training Python sytax.
+Training Python sytax. 
+A single project is on a seperate branch.
 
 ## Technologies Used
 - Tech 1 - Visual Studio Code
